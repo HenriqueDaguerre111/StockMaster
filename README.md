@@ -17,6 +17,8 @@ StockMaster is a Java-based stock management software designed to empower commer
 
 Keep track of our progress using our project board:
 
+![Overall Progress](https://progress-bar.dev/25/)
+
 📌 **Backlog**: Features and improvements we plan to work on.
 🛠️ **Doing**: What's currently in development.
 ✅ **Done**: Features and tasks that have been completed.
